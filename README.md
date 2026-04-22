@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on *Full stack Website for ecommerce and a portfolio**
 
-- 🌱 I’m currently learning **Full stack web development, UI/UX design**
+- 🌱 I’m currently learning **Python and 3d Modelling**
 
-- 📫 How to reach me **ay2006.mide@gmail.com**
+- 📫 How to reach me **sayoadeyemiayomide@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
